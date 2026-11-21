@@ -60,7 +60,7 @@ These systems will interact with each other in their own unique ways.  The playe
 
 ----------------------------------------------------------------------------------------------------
 
-Bonus text!
+Bonus text!!
 
 ---------------
 
@@ -99,8 +99,26 @@ But humanity's invented hyperspace travel, surely, they can use that to send sig
 Currently, Apollo's headed for the consellation Orion! Predetermined.
 
 
+----------------------
+
+Signatures:
 -----
+Student signatures
 
+-----
+MANZANO
+<img width="512" height="374" alt="image" src="https://github.com/user-attachments/assets/53c8b12c-f402-46cb-8d36-aa8c80b4dd81" />
 
+-----
+AYSON
+<img width="512" height="306" alt="image" src="https://github.com/user-attachments/assets/4c537bdc-9629-4b14-a4ba-0441bb871d7b" />
+
+----
+ARINGO
+empty
+
+--------------------------
+Sir Roy
+input here
 
 
