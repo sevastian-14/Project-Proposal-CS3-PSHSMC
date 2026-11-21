@@ -9,7 +9,15 @@ Date (Proposal Date): Nov 19, 2026
 
 Project Description:
 
-draft 2
+Waki draft 1 (vinn draft 2 can be used if we pick this one for more lore explanation (ie introduction)
+
+When Constellations Align is our Visual Novel/RPG game where the player is Apollo, a voyager of Terra, specifically the eleventh voyager.   He is one of 13 astronauts assigned to explore the cosmos sometime in the 24th century, and the place he was designated to explore is constellation Orion.  The game is meant to address the limited player interaction common in more traditional reading-based games through combining good storytelling and interactive, engaging gameplay
+
+With differing dialogue choices, fun space exploration and engaging spaceship management, mission completion and mini games that add a little more fun, players can immerse themselves with the story rather that just reading text on their screen.  The decisions they make can drastically affect the story they play through and the relationships they make, providing an engaging and personalized gaming experience for all.
+
+Vinn draft 2 
+
+Introduction
 
 Alright. You're bored on a late Saturday night, and you're in need of a source of entertainment.
 In a mood for reading? Are you invested in stories? Space? Yaoi? Wait, yaoi-??? 
@@ -17,9 +25,6 @@ Well, we have just the game for you!!
 
 When Constellations Align is a Visual Novel/RPG game where you're an astronaut exploring the cosmos.
 Cleaning minigames, ship management, little explorations and slight bullet hell! 
-
-
-
 
 Get this, 23xx somewhere in the future, tensions between nations have died down and technology has progressed a LOT. A lot of the nations have decided, maybe it's time to go to space. And so, a lot of the funds went to developing the tech and futuristic stuff... Ta-daaa! They invented hyperspace travel!! A bit inefficient, sure, but it's more than enough than what's needed for the entire exploration thing.
 You play as the young prodigy, Apollo! (yes, like the satellites/spaceships)
