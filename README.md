@@ -66,9 +66,9 @@ Bonus text!
 
 Get this:
 
-You are 200+ years into the future. International tensions are (almost) a thing of the past.
+You are 200+ years into the future. International tensions are still as lively as ever! But these tensions have dialed down enough for the nations to come to agreement.
 
-Technology has seen astronomical progress. Fittingly so - the nations have decided it's time to go interstellar!
+Technology has seen astronomical progress. Fittingly so - the nations have come together and decided it's time to go interstellar!
 
 And so with the right funding, we have...
 
@@ -100,25 +100,6 @@ Currently, Apollo's headed for the consellation Orion! Predetermined.
 
 
 -----
-
-Get this, 23xx somewhere in the future, tensions between nations have died down and technology has progressed a LOT. A lot of the nations have decided, maybe it's time to go to space. And so, a lot of the funds went to developing the tech and futuristic stuff... Ta-daaa! They invented hyperspace travel!! A bit inefficient, sure, but it's more than enough than what's needed for the entire exploration thing.
-You play as the young prodigy, Apollo! (yes, like the satellites/spaceships)
-Apollo is a sliiiightly burnt-out gifted kid. 
-Slightly might be an understatement. ^_^|||
-Anyway, Apollo is a part of 13 Voyagers of Terra, a worldwide mission to explore the cosmos. He's specifically the 11th Voyager. (hehe Apollo 11 reference)
-Each Voyager is on a solo mission to explore the stars. The reason for the solo missions is so that there isn't a possibility of any events occurring where a crew member may betray a fellow crew member, and also so that in an event of a crash/invasion, an entire team doesn't get decimated, and they can regroup back. Of course, this means that it's going to be very lonely for the astronauts. But humanity's invented hyperspace travel, surely, they can use that to send signals. (and they did)
-Currently, Apollo's headed for the consellation Orion! Predetermined.
-
-
-
-Predetermined, huh... 
-...
-...
-As if Apollo, of all people, had a choice. 
-
-Well, what're you waiting for?
-Will Apollo successfully carry out his mission, and maybe make some friends along the way? 
-Orrr... making a relationship more than friends? :)
 
 
 
