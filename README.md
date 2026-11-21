@@ -38,22 +38,22 @@ This is more of an artistic project, so the main goal really is to create art, e
 
 There will be six main systems:  
 
-  Player System:
+  - Player System:
     - Will be used for Apollo.  This will be used to store Apollo’s health, energy, location and other things related to his status.  This system will also be used to let the player interact with and explore the world, and make choices that affect other systems.
     
-  Spaceship Management System:
+  - Spaceship Management System:
     - Will be used for functions related to the spaceship and its status.  This will track its fuel, health, power, and other things related to its status.  The system will also allow the player to clean, repair, and manage the ship.
     
-  Exploration and Mission System:
+  - Exploration and Mission System:
     - Will be used to manage missions, objectives, and destinations.  This system will also allow the player to explore specific places and collect and keep track of gathered information.
     
-  Dialogue and Relationship System:
+  - Dialogue and Relationship System:
     - Will manage conversations and dialogue options, tracking relationship points based on the player’s choices and letting them track this information.
     
-  Mini-game System:
+  - Mini-game System:
     - Will track scores (like highest scores) and completed activities (and maybe a ranking system).  This will be used for things like spaceship cleaning tasks, bullet-hell challenges and any other kind of minigame we decide to implement.
     
-  Inventory and Resource System:
+  - Inventory and Resource System:
     - Will be used to store collected items (resources or other kinds) and allows the player to see what is stored, and use what is stored when needed.
     
 These systems will interact with each other in their own unique ways.  The player system will interact with every other system to allow for all of the functions of the game to be available to the player.
