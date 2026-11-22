@@ -115,7 +115,8 @@ AYSON
 
 ----
 ARINGO
-empty
+<img width="790" height="280" alt="BATCH 2030-ARINGO, JOAQUIN MIGUEL M  " src="https://github.com/user-attachments/assets/6b521ec4-3290-44c6-b8bd-e1dbb9fe50fb" />
+
 
 --------------------------
 Sir Roy
